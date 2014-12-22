@@ -2,7 +2,7 @@
 
 ##### In object-oriented design the world is modeled as a series of messages that pass between objects.
 * Failures of OOD may look like failures of code, but are actually failures of perspective.
-* The first requirement for learning how to do OOD it to immerse yourself in objects in order to acquire an OO perspective.
+* The first requirement for learning how to do OOD is to immerse yourself in objects, in order to acquire an OO perspective.
 
 ##### Good design anticipates change
 * Change is inevitable. At the initial point of design, perfect knowledge of future requirements is not possible.
@@ -35,7 +35,7 @@
 
 ##### Procedural languages
 * Procedural languages know about a small, fixed set of different kinds of data - things like `strings`, `numbers`, `arrays` etc. 
-* These kinds of data are known as *data types* and are different from each other. The `string` data type is different to the `array` data type.
+* These kinds of data are known as *data types* and are different to each other. The `string` data type is different to the `array` data type.
 * Data types can be packaged into variables and your expectations about which operations you can use are based on your knowledge of a variable's data type.
 * All data types and operations are built into the syntax of the language and cannot be added to.
 * There is a chasm between data and behaviour.
@@ -54,4 +54,4 @@
 * A class defines methods (behaviour) and attributes (variables).
 * Methods are called in response to messages sent to the object.
   * The same method name can be used by different objects. Ruby's job is to find the right method of the correct object for a sent message.
-* OO languages are open-ended. Just as the `string` classes manufactures new string objects, the `class` class manufactures new classes.
+* OO languages are open-ended. Just as the `string` class manufactures new string objects, the `class` class manufactures new classes.
