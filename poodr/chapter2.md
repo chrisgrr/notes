@@ -11,10 +11,10 @@
 * The easiest way to make a change is to add code that is in itself easy to change
 
 Code you write should have the following qualities. It should be
-***Transparent** Consequences of change should be obvious in the code and in any code that relies on it.
-***Reasonable** Cost of change should be proportional to the benefits
-***Usable** Code should be reusable in new contexts
-***Exemplary** The code itself should encourage those who change it to perpetuate these qualities
+* **Transparent** Consequences of change should be obvious in the code and in any code that relies on it.
+* **Reasonable** Cost of change should be proportional to the benefits
+* **Usable** Code should be reusable in new contexts
+* **Exemplary** The code itself should encourage those who change it to perpetuate these qualities
 
 ###### Classes should have a single responsibility
-*A class should do the smallest possible useful thing.
+* A class should do the smallest possible useful thing.
